@@ -1,0 +1,18 @@
+{
+  "name": "clase3",
+  "version": "1.0.0",
+  "description": "Una prueba especial",
+  "scripts": {
+    "test": "test",
+    "start": "node-dev www &"
+  },
+  "repository": {
+    "type": "git",
+    "url": "clase3"
+  },
+  "author": "Julian De La Rosa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
