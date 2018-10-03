@@ -8,6 +8,7 @@ var bodyParser=require("body-parser");
 //var indexRouter = require('./routes/index');
 //var usersRouter = require('./routes/users');
 //var rulesRouter = require('./routes/rulestest1');
+
 //var rulesDefault=require('./routes/default');
 var fs=require('fs');
 var app = express();
